@@ -1,0 +1,23 @@
+# Este é o arquivo principal (não procura outro acima)
+root = true
+
+# Aplica para todos os arquivos
+[*]
+
+# Usa espaço em vez de TAB
+indent_style = space
+
+# 2 espaços por nível de indentação
+indent_size = 2
+
+# Quebra de linha padrão (evita conflito no Git)
+end_of_line = lf
+
+# Codificação padrão (suporte a acentos)
+charset = utf-8
+
+# Remove espaços no fim da linha
+trim_trailing_whitespace = true
+
+# Adiciona linha em branco no final do arquivo
+insert_final_newline = true
